@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 420px){
 .banner{
-    background-image: linear-gradient(-90deg, #a5a5a5, #b5b5b5, #e2e2e2);
+    background-image: linear-gradient(-90deg, #a5a5a5, #b5b5b5);
     color: white;
     padding:  4% 8% ;
     border-bottom-left-radius: 50% 40%;
@@ -86,11 +86,11 @@
 }
 
 .titulo {
-    margin: 50px 0 -5px 15px;
+    margin: 50px 0 -5px 30px;
 }
 
 .conteudo2 article {
-    margin: 15px;
+    margin: 15px 30px;
     background-color: white;
     border-radius: 8px;
     display: flex;
@@ -114,7 +114,11 @@
 }
 
 .it2 {
-    font-size: 9.5px; 
+    font-size: 8.9px; 
+}
+
+.it2 img {
+        margin-right: 5px;
 }
 
 .it3 {
@@ -134,6 +138,7 @@
 
 .valor {
     font-size: 25px;
+    margin-left: 3px;
 }
 
 .rodape {
