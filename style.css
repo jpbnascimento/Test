@@ -75,7 +75,7 @@
 }
 
 .contprincipal {
-    height: 450px;
+    height: 410px;
     color: #898989;
     background-color: #f2f2f2;
 }
@@ -86,11 +86,11 @@
 }
 
 .titulo {
-    margin: 70px 0 -10px 30px;
+    margin: 50px 0 -10px 30px;
 }
 
 .conteudo2 article {
-    margin: 30px;
+    margin: 20px;
     background-color: white;
     border-radius: 10px;
     display: flex;
