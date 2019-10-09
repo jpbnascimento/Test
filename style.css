@@ -48,12 +48,12 @@
     padding: 3px;
 }
 
-.categorias li a:hover {
+/* .categorias li a:hover {
     color: #4c4c4c;
     border-bottom: 4px solid black;
     font-weight: bold;
     padding: 4px;
-}
+} */
 
 .botoes{
     display: flex;
@@ -79,11 +79,11 @@
     color: white;
 }
 
-.botoes li button:hover {
+/* .botoes li button:hover {
     background: #bd0048;
     cursor: pointer;
     color: white;
-}
+} */
 
 .contprincipal {
     height: 410px;
